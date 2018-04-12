@@ -1,3 +1,3 @@
 # com.ilyriadz.database
 
-مدير قواعد بيانات نفذ على نظامي قواعد البيانات المشهورين H2 و Ucanaccess
+a simple Database Manager implemented with two popular Database Management Systems H2 and Ucanaccess.
